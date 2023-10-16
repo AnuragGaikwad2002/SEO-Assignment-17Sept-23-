@@ -1,0 +1,5 @@
+SEO stands for Search engine optimization. It is the process of improving the ranking of website in search engines.
+Benifits of SEO:
+        Improves user expericence.
+        Improves scalabity.
+        Increases traffic on website.     
